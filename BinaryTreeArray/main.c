@@ -1,3 +1,4 @@
+
 #include "BinaryTreeArray.h"
 
 void main(){
@@ -10,4 +11,5 @@ void main(){
 
     Node n6 = makeLeftChild(n3, 'C');
     Node n7 = makeRightChild(n3, 'D');
+
 }
