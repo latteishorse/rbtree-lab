@@ -4,7 +4,7 @@
 
 rbtree *new_rbtree(void) {
   rbtree *p = (rbtree *)calloc(1, sizeof(rbtree));
-
+  int *x = (int*)calloc(1,sizeof(node_t));
   
   // TODO: initialize struct if needed
   return p;
