@@ -194,6 +194,17 @@ node_t *rbtree_min(const rbtree *t) {
   return r;
 }
 
+// node_t *tree_minimum(const rbtree *t, node_t *sub_root)
+// {
+//     node_t *r = sub_root;
+//     if (r == t->nil)
+//       return r;
+//     while (r->left != t->nil){
+//         r = r->left;
+//     }
+//     return r;
+// }
+
 node_t *rbtree_max(const rbtree *t) {
   node_t *r = t->root;
   if (r == t->nil) return r;
