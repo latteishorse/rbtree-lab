@@ -26,6 +26,15 @@ Balanced search tree로 많이 쓰이는 Red-black tree (이하 RB tree)를 C �
 - RB tree 기능 일부분 구현
 - 삭제 공부, 강의 정리
 
+### `05.03 화`
+
+- erase 기능 구현
+- make array inorder로 구현
+
+### `05.04 수`
+
+- 모든 기능 구현 및 test case 통과
+- 팀 코드리뷰를 통해 코드 개선
 
 ## 구현 범위
 다음 기능들을 수행할 수 있도록 RB tree를 구현합니다.
