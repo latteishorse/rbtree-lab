@@ -70,4 +70,4 @@ Balanced search tree로 많이 쓰이는 Red-black tree (이하 RB tree)를 C �
 - [Wikipedia:균형 이진 트리의 구현 방법들](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree#Implementations)
 
 ----
-This page was most recently updated on May 2nd, 2022
+This page was most recently updated on May 5th, 2022
